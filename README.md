@@ -1,4 +1,4 @@
-# LinuxPrivEscEnumTools
+# Linux Privilege Escalation Enumaration Tools
 
 - [LinPeas](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
 - [LinEnum](https://github.com/rebootuser/LinEnum)
